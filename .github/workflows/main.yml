@@ -5,6 +5,9 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write # Adiciona permissão de escrita para o GITHUB_TOKEN
+
 jobs:
   build:
     name: Jobs to update datas
@@ -23,4 +26,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
