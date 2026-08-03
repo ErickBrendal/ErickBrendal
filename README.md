@@ -50,7 +50,7 @@
 - 🔗 [GitHub](https://github.com/ErickBrendal)
 - 🔗 [Trailblazer Profile](https://trailblazer.me/id/erick-almeida)
 - 🔗 [Portfólio Online](https://erick-almeida-portfolio.vercel.app/)
-- 📧 E-mail: erick.almeida@eblsolucoescorp.tec.br
+- 📧 E-mail: ebrendal8219@gmail.com
 - 📱 WhatsApp: (11) 97445-5563
 
 ---
